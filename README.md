@@ -7,6 +7,7 @@ CYBERINFINITI-CTI is a Cyber Threat Intelligence (CTI) initiative developed by T
 This project models how an internal CTI function operates within an enterprise setting — identifying, analyzing, and contextualizing cyber threats based on the organization’s operational landscape, industry focus, and geographic exposure. It utilizes **OpenCTI** as the central intelligence platform, securely deployed on AWS, and enriched with live threat data from **AlienVault OTX**, enabling the correlation of global threat indicators with tailored intelligence requirements.
 
 The primary goal is to convert raw threat data into actionable, executive-ready intelligence that supports strategic, operational, and defensive decision-making. The assessment includes profiling threat actors, mapping sector-specific risks, and analyzing politically or criminally motivated campaigns, all aligned with established frameworks such as MITRE ATT&CK and the Diamond Model.
+
 ---
 
 ### Project Objective
