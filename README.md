@@ -29,12 +29,13 @@ Intelligence Platform: OpenCTI
 Threat Feed Integration: AlienVault OTX
 Core Components
 
-OpenCTI API & Web Interface
+### openCTI API & web interface
+-OpenCTI API & Web Interface
 -Graph Database (STIX 2.1 Data Model)
 -RabbitMQ (Message Queuing)
 -Elasticsearch, Redis, MinIO
 -AlienVault OTX Connector
--This modular architecture enables scalable ingestion, correlation, and visualization of threat intelligence.
+This modular architecture enables scalable ingestion, correlation, and visualization of threat intelligence.
 ---
 
 ### Methodology
