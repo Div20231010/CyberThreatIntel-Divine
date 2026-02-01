@@ -30,11 +30,11 @@ Threat Feed Integration: AlienVault OTX
 Core Components
 
 OpenCTI API & Web Interface
-Graph Database (STIX 2.1 Data Model)
-RabbitMQ (Message Queuing)
-Elasticsearch, Redis, MinIO
-AlienVault OTX Connector
-This modular architecture enables scalable ingestion, correlation, and visualization of threat intelligence.
+-Graph Database (STIX 2.1 Data Model)
+-RabbitMQ (Message Queuing)
+-Elasticsearch, Redis, MinIO
+-AlienVault OTX Connector
+-This modular architecture enables scalable ingestion, correlation, and visualization of threat intelligence.
 ---
 
 ### Methodology
@@ -62,10 +62,10 @@ Key Threat Categories identified from this project
 - Credential theft leading to lateral movement across networks  
 - Covert data exfiltration techniques  
 
-Notable Threat Actors
-- **Akira Ransomware Group**  
-- **APT17**  
-- **POLONIUM**
+### Notable Threat Actors
+- Akira Ransomware Group  
+- APT17  
+- POLONIUM
 ---
 
 ### National Threat Landscape
@@ -85,15 +85,15 @@ Healthcare Organizations
 Defense Sector Entities
 Each profile includes:
 
-Diamond Model Analysis
-Kill Chain Mapping
-MITRE ATT&CK technique alignment
-Detection & mitigation recommendations
+### Diamond Model Analysis
+-Kill Chain Mapping
+-MITRE ATT&CK technique alignment
+-Detection & mitigation recommendations
 ---
 
 ### 🛡️ Politically Motivated Threat Actor Assessment
 
-**Focused Threat Group:** Sandworm (APT44 / Seashell Blizzard)  
+***Focused Threat Group:** Sandworm (APT44 / Seashell Blizzard)  
 - Russia-aligned, state-sponsored threat actor  
 - Notorious for destructive cyber operations and the use of wiper malware  
 - Recent campaigns have targeted energy providers and critical infrastructure sectors  
